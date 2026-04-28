@@ -27,10 +27,10 @@
 
 # 🚀 My Projects
 
-## Adamant Stars  🔗 http://t.me/AdamantStars_bot  
-## Adamant Gifts  🔗 https://t.me/addlist/Nu-jaVSF5gJiMmMy  
-## Adamant Solar  🔗 https://adamant-solar.vercel.app/  
-## Utopia  🔗 https://startup-garage-ai-tau.vercel.app/  
+#### Adamant Stars  🔗 http://t.me/AdamantStars_bot  
+#### Adamant Gifts  🔗 https://t.me/addlist/Nu-jaVSF5gJiMmMy  
+#### Adamant Solar  🔗 https://adamant-solar.vercel.app/  
+#### Utopia  🔗 https://startup-garage-ai-tau.vercel.app/  
 
 ---
 
