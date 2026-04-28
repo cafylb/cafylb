@@ -6,14 +6,14 @@
 
 ---
 
-### 🧠 About Me
+# 🧠 About Me
 - 💻 Backend Developer  
 - 🚀 Creator of multiple projects  
 - 💡 Open to innovative ideas and collaborations  
 
 ---
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 <p align="left">
   <a href="http://t.me/cafylb" target="_blank">Telegram</a> •
   <a href="https://github.com/cafylb" target="_blank">GitHub</a> •
@@ -25,16 +25,16 @@
 
 ---
 
-### 🚀 My Projects
+# 🚀 My Projects
 
-#### Adamant Stars  🔗 http://t.me/AdamantStars_bot  
-#### Adamant Gifts  🔗 https://t.me/addlist/Nu-jaVSF5gJiMmMy  
-#### Adamant Solar  🔗 https://adamant-solar.vercel.app/  
-#### Utopia  🔗 https://startup-garage-ai-tau.vercel.app/  
+## Adamant Stars  🔗 http://t.me/AdamantStars_bot  
+## Adamant Gifts  🔗 https://t.me/addlist/Nu-jaVSF5gJiMmMy  
+## Adamant Solar  🔗 https://adamant-solar.vercel.app/  
+## Utopia  🔗 https://startup-garage-ai-tau.vercel.app/  
 
 ---
 
-### 🤝 Collaboration
+# 🤝 Collaboration
 🚀 I'm open to:
 - Startup ideas  
 - Team projects  
