@@ -33,27 +33,10 @@
 
 ### 🚀 My Projects
 
-#### ⭐ Adamant Stars  
-🔗 http://t.me/AdamantStars_bot  
-
-#### 🎁 Adamant Gifts  
-🔗 https://t.me/addlist/Nu-jaVSF5gJiMmMy  
-
-#### ☀️ Adamant Solar  
-🔗 https://adamant-solar.vercel.app/  
-
-#### 🌌 Utopia  
-🔗 https://startup-garage-ai-tau.vercel.app/  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cafylb&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cafylb&layout=compact&theme=tokyonight" />
-</p>
-
----
+#### Adamant Stars  🔗 http://t.me/AdamantStars_bot  
+#### Adamant Gifts  🔗 https://t.me/addlist/Nu-jaVSF5gJiMmMy  
+#### Adamant Solar  🔗 https://adamant-solar.vercel.app/  
+#### Utopia  🔗 https://startup-garage-ai-tau.vercel.app/  
 
 ### 🤝 Collaboration
 🚀 I'm open to:
