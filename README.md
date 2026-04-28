@@ -38,6 +38,8 @@
 #### Adamant Solar  🔗 https://adamant-solar.vercel.app/  
 #### Utopia  🔗 https://startup-garage-ai-tau.vercel.app/  
 
+---
+
 ### 🤝 Collaboration
 🚀 I'm open to:
 - Startup ideas  
